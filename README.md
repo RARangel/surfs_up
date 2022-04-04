@@ -8,6 +8,9 @@ To collect the temperature data for the months of June and December in Oahu, in 
 ### Apps
 Jupyter Notebook, VS Code, SQLite
 
+#### Code:
+SurfsUp_Challenge.ipynb (File)
+
 ### Results
 Three key differences:
 - June avg temperature: 75 degrees vs December avg temperature: 71 degrees
