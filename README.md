@@ -8,8 +8,8 @@ To collect the temperature data for the months of June and December in Oahu, in 
 ### Apps
 Jupyter Notebook, VS Code, SQLite
 
-#### Code:
-SurfsUp_Challenge.ipynb (File)
+### Code:
+SurfsUp_Challenge.ipynb [file](SurfsUp_Challenge.ipynb)
 
 ### Results
 Three key differences:
